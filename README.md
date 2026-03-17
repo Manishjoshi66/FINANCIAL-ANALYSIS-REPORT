@@ -9,7 +9,7 @@
 # 📊 Fest-Man Stores Sales Dashboard – Detailed Description
 ## 📑 Dataset Summary
 
-Rows: 3,900
+Rows: 700
 Columns: 18
 
 Key Features
