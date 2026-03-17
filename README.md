@@ -3,11 +3,11 @@
 ## The Fest-Man Stores Sales Dashboard is a Power BI project that analyzes retail sales performance across countries, customer segments, and products. It provides interactive visualizations for KPIs, profit margins, discount analysis, monthly sales trends, and top products, helping businesses monitor growth, identify profitable segments, and make data-driven decisions. 
 
 # DataSet 
-
+<a href="https://github.com/Manishjoshi66/FINANCIAL-ANALYSIS-REPORT/blob/main/Financial%20Sample%20(2).xlsx">Dataset</a>
 # DashBoard 
-< a href = "https://github.com/Manishjoshi66/FINANCIAL-ANALYSIS-REPORT/blob/main/Screenshot%202026-03-16%20222922.png">Dashboard</a>
-#📊 Fest-Man Stores Sales Dashboard – Detailed Description
-##📑 Dataset Summary
+<a href="https://github.com/Manishjoshi66/FINANCIAL-ANALYSIS-REPORT/blob/main/Screenshot%202026-03-16%20222922.png">Dashboard</a>
+# 📊 Fest-Man Stores Sales Dashboard – Detailed Description
+## 📑 Dataset Summary
 
 Rows: 3,900
 Columns: 18
@@ -32,7 +32,7 @@ Duplicate Checks: Order IDs were verified to ensure data consistency.
 
 Data Formatting: Date columns and numerical columns were standardized to ensure accurate calculations in the dashboard.
 
-#🧹 Data Cleaning & Preparation
+# 🧹 Data Cleaning & Preparation
 Data Loading and Initial Exploration
 
 The dataset was imported into Microsoft Power BI where initial exploration was performed using Power Query. This step helped understand the dataset structure, column types, and overall distribution of data.
