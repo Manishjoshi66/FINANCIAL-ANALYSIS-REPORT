@@ -5,7 +5,7 @@
 # DataSet 
 
 # DashBoard 
-
+< a href = "https://github.com/Manishjoshi66/FINANCIAL-ANALYSIS-REPORT/blob/main/Screenshot%202026-03-16%20222922.png">Dashboard</a>
 #📊 Fest-Man Stores Sales Dashboard – Detailed Description
 ##📑 Dataset Summary
 
